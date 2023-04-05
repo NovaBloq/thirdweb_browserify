@@ -1,2 +1,4 @@
 # thirdweb_browserify
-Testing generating a thirdweb bundle with Browserify
+
+1. Run ```npm run build```
+2. Open test.html
